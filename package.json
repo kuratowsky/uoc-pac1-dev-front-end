@@ -1,0 +1,28 @@
+{
+  "name": "pac1-front-end",
+  "version": "1.0.0",
+  "description": "Pràctica desenvolupament front-end UOC ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuratowsky/uoc-pac1-dev-front-end.git"
+  },
+  "keywords": [
+    "javascript",
+    "css",
+    "grunt",
+    "less",
+    "jslint",
+    "practica",
+    "uoc"
+  ],
+  "author": "Benet Joan Darder Canyelles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuratowsky/uoc-pac1-dev-front-end/issues"
+  },
+  "homepage": "https://github.com/kuratowsky/uoc-pac1-dev-front-end#readme"
+}
