@@ -1,0 +1,10 @@
+/* Mixin */
+body {
+  color: blue;
+  background-color: red;
+}
+.roudedcorners {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}

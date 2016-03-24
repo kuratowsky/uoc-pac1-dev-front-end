@@ -1,0 +1,19 @@
+
+/* Mixin */
+.border-radius (@radius: 5px) {
+	-webkit-border-radius: @radius;
+	-moz-border-radius: @radius;
+	border-radius: @radius;
+}
+
+@color-fons:red;
+@color-text: blue;
+
+body{
+	color:@color-text;
+	background-color:@color-fons;
+}
+
+.roudedcorners{
+	.border-radius(10px);
+}
